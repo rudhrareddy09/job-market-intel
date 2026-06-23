@@ -1,0 +1,11 @@
+requests
+python-dotenv
+psycopg2-binary
+SQLAlchemy
+pandas
+spacy
+sentence-transformers
+scikit-learn
+anthropic
+streamlit
+pytest
