@@ -1,0 +1,14 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: jobmarket-pg
+    environment:
+      POSTGRES_USER: jobmarket
+      POSTGRES_PASSWORD: jobmarket
+      POSTGRES_DB: jobmarket
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:
