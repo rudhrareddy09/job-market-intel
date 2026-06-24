@@ -1,0 +1,74 @@
+python
+sql
+r
+scala
+java
+machine learning
+deep learning
+nlp
+computer vision
+generative ai
+llm
+reinforcement learning
+feature engineering
+model deployment
+a/b testing
+statistics
+hypothesis testing
+regression
+classification
+clustering
+time series
+forecasting
+data modeling
+data engineering
+data analytics
+data science
+data pipelines
+etl
+data warehousing
+analytics engineering
+spark
+hadoop
+kafka
+airflow
+dbt
+databricks
+snowflake
+redshift
+bigquery
+postgresql
+mysql
+mongodb
+aws
+azure
+gcp
+cloud
+docker
+kubernetes
+mlflow
+kubeflow
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+keras
+xgboost
+lightgbm
+huggingface
+tableau
+power bi
+looker
+matplotlib
+seaborn
+plotly
+excel
+bi
+reporting
+dashboarding
+iot
+churn analysis
+customer analytics
+healthcare data
+performance analysis
